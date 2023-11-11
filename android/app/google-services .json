@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "650279039946",
+    "project_id": "note-taking-app-f53cd",
+    "storage_bucket": "note-taking-app-f53cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650279039946:android:0f52ca861da8ac2b991533",
+        "android_client_info": {
+          "package_name": "com.example.machinetask_screl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtNp3u757q2hEkmn51yIi9HtkPjlnTnuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
